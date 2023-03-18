@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/public_html
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp buku.php $DEPLOYPATH
+        - /bin/cp file_css.css $DEPLOYPATH
+	- /bin/cp -R gambar $DEPLOYPATH
