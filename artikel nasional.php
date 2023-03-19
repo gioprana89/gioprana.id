@@ -3,7 +3,7 @@
 
 <head>
 
-<title>Home</title>
+<title>Artikel Jurnal Nasional</title>
 
 <link rel="stylesheet" href="file_css.css">
 
@@ -14,7 +14,7 @@
 
 <div class="topnav">
 
-    <a class="active" href="#home">Tentang</a>
+    <a href="index.php" >Tentang</a>
     <a href="buku.php">Buku</a>
     <a href="artikel nasional.php">Artikel Jurnal Nasional</a>
     <a href="artikel internasional.php">Artikel Jurnal Internasional</a>
@@ -27,8 +27,28 @@
 
   </div>
 
-  <br>
-  <br>
+  
+  
+  <p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 7>
+
+ 
+        <center>
+
+  
+        Artikel Jurnal Nasional
+
+</center>
+
+        </font>
+</font>
+</p>	
+
+
+
+
 
 <center>
 <table width = 600 border = 0>
@@ -141,6 +161,36 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
+<br>
+<br>
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:orange; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 6>
+
+ 
+        <center>
+
+  
+       Berikut beberapa artikel kami (kolaborasi) yang dipublikasi di jurnal nasional.
+
+</center>
+
+        </font>
+</font>
+</p>	
+
+
+
+
+
+
+
+<br><br>
 
 
 
@@ -151,29 +201,22 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+
+Author: <font color = "red">Muhammad Khahfi Zuhanda, Anil Hakim Syofra Syofra, Devy Mathelinea, Prana Ugiana Gio, Yuan Anisa Anisa, Nanda Novita</font><br>
+Judul Artikel: <font color = "green">Analysis of twitter user sentiment on the monkeypox virus issue using the nrc lexicon</font><br>
+Tahun: <font color = "grey">2023</font><br>
+Jurnal: <font color = "orange">Jurnal Mantik</font><br>
+Link: <a href = "https://iocscience.org/ejournal/index.php/mantik/article/view/3502" target = "_blank">https://iocscience.org/ejournal/index.php/mantik/article/view/3502<br>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</font>
+</font>
+</p>
 
 
 
@@ -193,30 +236,132 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 <br>
-
-  <p style="text-align:justify">
-
-    <font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
-            <font size = 4>
+<br><br>
 
 
+<p style="text-align:justify">
 
-    
-    Assalamualaikum . . . Perkenalkan, nama saya Ugi. Hadirnya website ini bertujuan untuk sharing ilmu pengetahuan mengenai statistika & pemrograman. Selain itu, website ini saya gunakan sebagai media untuk mencatat dan menyimpan terkait hal yang telah saya capai, seperti menulis buku, publikasi artikel ke jurnal nasional atau internasional, aplikasi berbasis website, dan seterusnya.
-    
-    </font>
-    </font>
-    </p>	
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
 
+Author: <font color = "red">Dasapta Erwin Irawan, Muhammad Aswan Syahputra, Prana Ugiana Gio, Deny Juanda Puradimaja</font><br>
+Judul Artikel: <font color = "green">Thermostats: an Open Source Shiny App for Your Open Data Repository</font><br>
+Tahun: <font color = "grey">2019</font><br>
+Jurnal: <font color = "orange">JOIV : International Journal on Informatics Visualization</font><br>
+Link: <a href = "http://joiv.org/index.php/joiv/article/view/282" target = "_blank">http://joiv.org/index.php/joiv/article/view/282<br>
 
 
 
+</font>
+</font>
+</p>
 
 
 
 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <br><br>
+
+<br><br>
+
+
+
+
+
+
+
+
+<br><br>
+
+<br><br>
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </body>
 

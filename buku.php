@@ -16,8 +16,8 @@
 
     <a href="index.php" >Tentang</a>
     <a href="buku.php">Buku</a>
-    <a href="#contact">Artikel Jurnal Nasional</a>
-    <a href="#contact">Artikel Jurnal Internasional</a>
+    <a href="artikel nasional.php">Artikel Jurnal Nasional</a>
+    <a href="artikel internasional.php">Artikel Jurnal Internasional</a>
     <a href="#contact">Hak Cipta</a>
     <a href="#about">Seminar & Pelatihan</a>
     <a href="#about">Aplikasi R</a>
