@@ -435,33 +435,33 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 <br><br>
 
 
-<center><img src = "gambar/seminar dan pelatihan/2016/1/1.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/1.JPG" width="400"></center>
 
 <br>
 
-<center><img src = "gambar/seminar dan pelatihan/2016/1/2.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/2.JPG" width="400"></center>
 
 <br>
 
-<center><img src = "gambar/seminar dan pelatihan/2016/1/3.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/3.JPG" width="400"></center>
 
 <br>
 
-<center><img src = "gambar/seminar dan pelatihan/2016/1/4.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/4.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2016/1/5.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/5.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2016/1/6.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/6.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2016/1/7.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/7.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2016/1/8.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/8.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2016/1/9.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/9.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2016/1/10.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/10.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2016/1/11.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2016/1/11.JPG" width="400"></center>
 <br>
 
 <br>
@@ -520,40 +520,40 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 <br><br>
 
 
-<center><img src = "gambar/seminar dan pelatihan/2015/1/1.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/1.JPG" width="400"></center>
 
 <br>
 
-<center><img src = "gambar/seminar dan pelatihan/2015/1/2.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/2.JPG" width="400"></center>
 
 <br>
 
-<center><img src = "gambar/seminar dan pelatihan/2015/1/3.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/3.JPG" width="400"></center>
 
 <br>
 
-<center><img src = "gambar/seminar dan pelatihan/2015/1/4.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/4.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2015/1/5.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/5.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2015/1/6.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/6.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2015/1/7.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/7.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2015/1/8.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/8.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2015/1/9.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/9.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2015/1/10.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/10.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2015/1/11.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/11.JPG" width="400"></center>
 <br>
 
-<center><img src = "gambar/seminar dan pelatihan/2015/1/12.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/12.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2015/1/13.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/13.JPG" width="400"></center>
 <br>
-<center><img src = "gambar/seminar dan pelatihan/2015/1/14.jpg" width="400"></center>
+<center><img src = "gambar/seminar dan pelatihan/2015/1/14.JPG" width="400"></center>
 <br>
 
 <br>
