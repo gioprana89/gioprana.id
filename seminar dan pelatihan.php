@@ -403,6 +403,255 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pelatihan Olah Data Statistik yang Diselenggarakan oleh ebizmark pada 5-8 Desember 2022</font><br>
+      Tahun: <font color = "grey">2022</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2022/3/1.jpg" width="700"></center>
+
+<br>
+
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pelatihan Statistika Dasar dengan Software SPSS, yang Diselenggarakan oleh Himpunan Mahasiswa Matematika (HMM) Universitas Sumatera Utara (USU) pada 30 Juli 2022</font><br>
+      Tahun: <font color = "grey">2022</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2022/4/1.jpg" width="700"></center>
+
+<br>
+
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Sosialisasi Penggunaan Software STATCAL yang Diselenggarakan oleh Politeknik Pertanian Negeri Samarinda, pada 26 Juli 2022</font><br>
+      Tahun: <font color = "grey">2022</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2022/5/1.jpg" width="700"></center>
+
+<br>
+
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pelatihan Aplikasi SmartPLS yang Diselenggarakan oleh Universitas Trisakti pada 4 Juli 2022</font><br>
+      Tahun: <font color = "grey">2022</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2022/6/1.jpg" width="700"></center>
+
+<br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2022/6/2.jpg" width="700"></center>
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pelatihan Pengolahan Data Menggunakan Aplikasi SmartPLS, yang Diselenggarakan oleh Universitas Sriwijaya pada 30-31 Mei 2022</font><br>
+      Tahun: <font color = "grey">2022</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2022/7/1.jpg" width="700"></center>
+
+<br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2022/7/2.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2022/7/3.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2022/7/4.jpg" width="700"></center>
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
 
 
 
