@@ -19,7 +19,7 @@
     <a href="artikel nasional.php">Artikel Jurnal Nasional</a>
     <a href="artikel internasional.php">Artikel Jurnal Internasional</a>
     <a href="hak cipta.php">Hak Cipta</a>
-    <a href="#about">Seminar & Pelatihan</a>
+    <a href="seminar dan pelatihan.php">Seminar & Pelatihan</a>
     <a href="#about">Aplikasi R</a>
     <a href="#about">Aplikasi Python</a>
     <a href="#about">Kompetisi</a>

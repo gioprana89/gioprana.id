@@ -19,7 +19,7 @@
     <a href="artikel nasional.php">Artikel Jurnal Nasional</a>
     <a href="artikel internasional.php">Artikel Jurnal Internasional</a>
     <a href="hak cipta.php">Hak Cipta</a>
-    <a href="#about">Seminar & Pelatihan</a>
+    <a href="seminar dan pelatihan.php">Seminar & Pelatihan</a>
     <a href="#about">Aplikasi R</a>
     <a href="#about">Aplikasi Python</a>
     <a href="#about">Kompetisi</a>
@@ -210,7 +210,7 @@ Author: <font color = "red">Muhammad Khahfi Zuhanda, Anil Hakim Syofra Syofra, D
 Judul Artikel: <font color = "green">Analysis of twitter user sentiment on the monkeypox virus issue using the nrc lexicon</font><br>
 Tahun: <font color = "grey">2023</font><br>
 Jurnal: <font color = "orange">Jurnal Mantik</font><br>
-Link: <a href = "https://iocscience.org/ejournal/index.php/mantik/article/view/3502" target = "_blank">https://iocscience.org/ejournal/index.php/mantik/article/view/3502<br>
+Link: <a href = "https://iocscience.org/ejournal/index.php/mantik/article/view/3502" target = "_blank">https://iocscience.org/ejournal/index.php/mantik/article/view/3502</a><br>
 
 
 
@@ -223,6 +223,30 @@ Link: <a href = "https://iocscience.org/ejournal/index.php/mantik/article/view/3
 
 
 
+
+
+
+
+<br>
+<br><br>
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+
+Author: <font color = "red">Helmi Ramadan, Prana Ugiana Gio, Elly Rosmaini</font><br>
+Judul Artikel: <font color = "green">Monte Carlo Simulation Approach to Determine the Optimal Solution of Probabilistic Supply Cost</font><br>
+Tahun: <font color = "grey">2020</font><br>
+Jurnal: <font color = "orange">Journal of Research in Mathematics Trends and Technology</font><br>
+Link: <a href = "https://talenta.usu.ac.id/jormtt/article/view/3752" target = "_blank">https://talenta.usu.ac.id/jormtt/article/view/3752</a><br>
+
+
+
+</font>
+</font>
+</p>
 
 
 
@@ -248,7 +272,7 @@ Author: <font color = "red">Dasapta Erwin Irawan, Muhammad Aswan Syahputra, Pran
 Judul Artikel: <font color = "green">Thermostats: an Open Source Shiny App for Your Open Data Repository</font><br>
 Tahun: <font color = "grey">2019</font><br>
 Jurnal: <font color = "orange">JOIV : International Journal on Informatics Visualization</font><br>
-Link: <a href = "http://joiv.org/index.php/joiv/article/view/282" target = "_blank">http://joiv.org/index.php/joiv/article/view/282<br>
+Link: <a href = "http://joiv.org/index.php/joiv/article/view/282" target = "_blank">http://joiv.org/index.php/joiv/article/view/282</a><br>
 
 
 
