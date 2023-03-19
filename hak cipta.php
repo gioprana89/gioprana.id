@@ -3,7 +3,7 @@
 
 <head>
 
-<title>Artikel Jurnal Nasional</title>
+<title>Hak Cipta</title>
 
 <link rel="stylesheet" href="file_css.css">
 
@@ -38,7 +38,7 @@
         <center>
 
   
-        Artikel Jurnal Nasional
+        Hak Cipta
 
 </center>
 
@@ -176,7 +176,7 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
         <center>
 
   
-       Berikut beberapa artikel kami (kolaborasi) yang dipublikasi di jurnal nasional.
+       Berikut beberapa hak kami.
 
 </center>
 
@@ -205,12 +205,34 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 <font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
       <font size = 4>
+      Judul Ciptaan: <font color = "orange">STATCAL (Statistical Calculator)</font><br>
+      Jenis Ciptaan: <font color = "red">Program Komputer</font><br>
+     Pemegang Hak Cipta: <font color = "green">Prana Ugiana Gio & Rezzy Eko Caraka</font><br>
 
-Author: <font color = "red">Muhammad Khahfi Zuhanda, Anil Hakim Syofra Syofra, Devy Mathelinea, Prana Ugiana Gio, Yuan Anisa Anisa, Nanda Novita</font><br>
-Judul Artikel: <font color = "green">Analysis of twitter user sentiment on the monkeypox virus issue using the nrc lexicon</font><br>
-Tahun: <font color = "grey">2023</font><br>
-Jurnal: <font color = "orange">Jurnal Mantik</font><br>
-Link: <a href = "https://iocscience.org/ejournal/index.php/mantik/article/view/3502" target = "_blank">https://iocscience.org/ejournal/index.php/mantik/article/view/3502<br>
+Uraian Ciptaan: <font color = "purple">
+STATCAL mulai dibuat oleh Prana Ugiana Gio (Founder) dan Rezzy Eko Caraka (Co-Founder) pada tahun 2017. STATCAL dibuat dengan menggunakan bahasa pemrograman R, di RStudio, dengan menggunakan berbagai paket R (R packages), yang mana paket R shiny adalah paket utama. STATCAL merupakan software statistik berbasis website. Berbasis website berarti proses pengolahan data dilakukan di browser, seperti Google Chrome, Mozilla Firefox, Internet Explore, Opera dan sebagainya. Namun perlu diingar bahwa pada saat proses pengolahan data tidak perlu terkoneksi internet. Di dalam STATCAL, Anda dapat mengakses secara langsung berbagai tulisan dan video terkait penggunaan menu-menu di STATCAL. Tulisan dan video tersebut akan memandu Anda bagaimana cara menggunakan suatu menu di STATCAL. Di samping itu, beberapa menu di STATCAL dilengkapi bantuan interpretasi dalam bahasa Indonesia yang dapat memudahkan Anda pada saat melakukan interpretasi hasil statistik.</font><br>
+
+
+Tahun: <font color = "grey">2022</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/hak cipta/hak cipta statcal/1.png" width="700"></center>
+
+<br>
+
+
+<center><img src = "gambar/hak cipta/hak cipta statcal/2.png" width="500"></center>
+
+<br>
+
+
+<center><img src = "gambar/hak cipta/hak cipta statcal/3.png" width="1200"></center>
+
+<br>
+
 
 
 
@@ -239,22 +261,49 @@ Link: <a href = "https://iocscience.org/ejournal/index.php/mantik/article/view/3
 <br><br>
 
 
+
+
 <p style="text-align:justify">
 
 <font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
       <font size = 4>
+      Judul Ciptaan: <font color = "orange">REGCAL (Program Komputer Software Berbasis Web)</font><br>
+      Jenis Ciptaan: <font color = "red">Program Komputer</font><br>
+     Pemegang Hak Cipta: <font color = "green">Prana Ugiana Gio & Rezzy Eko Caraka</font><br>
 
-Author: <font color = "red">Dasapta Erwin Irawan, Muhammad Aswan Syahputra, Prana Ugiana Gio, Deny Juanda Puradimaja</font><br>
-Judul Artikel: <font color = "green">Thermostats: an Open Source Shiny App for Your Open Data Repository</font><br>
-Tahun: <font color = "grey">2019</font><br>
-Jurnal: <font color = "orange">JOIV : International Journal on Informatics Visualization</font><br>
-Link: <a href = "http://joiv.org/index.php/joiv/article/view/282" target = "_blank">http://joiv.org/index.php/joiv/article/view/282<br>
+Uraian Ciptaan: <font color = "purple">
+
+Regression Calculator (REGCAL) merupakan suatu aplikasi statistika berbasis website yang dirancang untuk melakukan regresi linear. REGCAL dapat diakses secara online pada alamat https://gioprana.shinyapps.io/REGCAL/ atau dapat digunakan secara offline dengan mendownload di https://statcal.com/. REGCAL dirancang menggunakan Bahasa pemrograman R (https://www.r-project.org/), di RStudio, melibatkan berbagai paket R. REGCAL dikembangkan oleh Prana Ugiana Gio & Rezzy Eko Caraka, beserta tim.<br>
+
+Tahun: <font color = "grey">2022</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/hak cipta/hak cipta regcal/1.png" width="1200"></center>
+
+<br>
+
+
+<center><img src = "gambar/hak cipta/hak cipta regcal/2.png" width="500"></center>
+
+<br>
+
+
+<center><img src = "gambar/hak cipta/hak cipta regcal/3.png" width="600"></center>
+
+<br>
+
 
 
 
 </font>
 </font>
 </p>
+
+
+
 
 
 
