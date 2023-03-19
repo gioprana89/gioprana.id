@@ -38,7 +38,7 @@
         <center>
 
   
-        Artikel Jurnal Nasional
+        Artikel Jurnal Internasional
 
 </center>
 
