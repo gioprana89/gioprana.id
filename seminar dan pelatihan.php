@@ -664,6 +664,1098 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Narasumber pada Kuliah KMMI Pengenalan R-Shiny yang Diselenggarakan oleh Universitas PGRI Adi Buana Surabaya pada 6 Oktober 2021.</font><br>
+      Tahun: <font color = "grey">2021</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2021/1/1.png" width="700"></center>
+
+<br>
+
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Narasumber pada Pelatihan Series II Analisis Data STATCAL yang Diselenggarakan oleh PERBANAS INSTITUTE pada 30 September 2021.</font><br>
+      Tahun: <font color = "grey">2021</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2021/2/1.png" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2021/2/2.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2021/2/3.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2021/2/4.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2021/2/5.png" width="700"></center>
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pemateri pada Acara "Sosialisasi-Kolaborasi Workshop Software Matematika dan Rumpunnya 2021" yang Diselenggarakan oleh IndoMS pada 25 September 2021.</font><br>
+      Tahun: <font color = "grey">2021</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2021/3/1.png" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2021/3/2.png" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2021/3/3.jpg" width="700"></center>
+
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pemateri pada Acara "Pengolahan dan Analisis Data Kuantitatif" yang Diselenggarakan oleh Lembaga Penelitian dan Pengabdian Masyarakat Universitas Prima Indonesia (UNPRI) pada 22 September 2021.</font><br>
+      Tahun: <font color = "grey">2021</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2021/4/1.png" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2021/4/2.png" width="700"></center>
+
+<br>
+
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Narasumber pada Pelatihan SmartPLS yang Diselenggarakan oleh Universitas Gadjah Mada, Fakultas Pertanian, Departemen Sosial Ekonomi pada 13 Agustus 2021, Jumat.</font><br>
+      Tahun: <font color = "grey">2021</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2021/5/1.png" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2021/5/2.png" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2021/5/3.jpg" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2021/5/4.jpg" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2021/5/5.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2021/5/6.jpg" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2021/5/7.jpg" width="700"></center>
+
+<br>
+
+
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pemateri pada Workshop SPSS, "Cara Jitu Mengolah Data" yang Diselenggarakan oleh Himpunan Mahasiswa Akuntansi Universitas Sumatra Utara (USU).</font><br>
+      Tahun: <font color = "grey">2021</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2021/6/1.jpg" width="700"></center>
+
+<br>
+
+
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Sebagai Pembicara (Invited Speaker) pada Acara "World Class Professor 2020 Workshop Series, Teaching Statistics" yang Diselenggarakan oleh Universitas Gadjah Mada, Fakultas Matematika dan Ilmu Pengetahuan Alam.</font><br>
+      Tahun: <font color = "grey">2020</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2020/1/1.png" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2020/1/2.png" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2020/1/3.jpg" width="700"></center>
+
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Nara Sumber pada Acara "Pengolahan & Visualisasi Data dengan STATCAL & ugigrafik.com" yang Diselenggarakan Oleh Komunitas Kolaborasi Tridharma Perguruan Tinggi</font><br>
+      Tahun: <font color = "grey">2020</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2020/2/1.jpg" width="700"></center>
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Dosen Tamu pada Acara "Kuliah Umum Metodologi Penelitian, Mengolah Data Statistika untuk Penelitian Menggunakan STATCAL" yang Diselenggarakan oleh Universitas Padjadjaran (UNPAD)</font><br>
+      Tahun: <font color = "grey">2020</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2020/3/1.jpg" width="700"></center>
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pemateri pada Acara "Kuliah Umum, Olah Data dengan STATCAL" yang Diselenggarakan FMIPA Universitas Negeri Medan (FMIPA UNIMED)</font><br>
+      Tahun: <font color = "grey">2020</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2020/4/1.jpg" width="700"></center>
+
+<br>
+
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pemateri pada Workshop "R Programming Languange & How to Build a Statistical Application with R Shiny" yang Diselenggarakan Oleh Prana Ugiana Gio di Hotel Ibis Style, Medan</font><br>
+      Tahun: <font color = "grey">2020</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2020/5/1.jpg" width="700"></center>
+
+<br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2020/5/2.jpg" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2020/5/3.jpg" width="700"></center>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Pemateri pada Workshop "PLS SEM Data Processing with WarpPLS & STATCAL plus Mendeley" yang Diselenggarakan Oleh Prana Ugiana Gio & Victor Hulu di Hotel Ibis Style, Medan</font><br>
+      Tahun: <font color = "grey">2020</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2020/6/1.jpg" width="700"></center>
+
+<br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2020/6/2.jpg" width="700"></center>
+
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2020/6/3.jpg" width="700"></center>
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2020/6/4.jpg" width="700"></center>
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2020/6/5.jpg" width="700"></center>
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2020/6/6.jpg" width="700"></center>
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2020/6/7.jpg" width="700"></center>
+<br>
+
+<center><img src = "gambar/seminar dan pelatihan/2020/6/8.jpg" width="700"></center>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Juara Paper Kategori Utama (Rekomendasi Scopus) pada "Forum Riset Ekonomi dan Keuangan Syariah 2019" oleh Otoritas Jasa Keuangan (OJK)</font><br>
+      Tahun: <font color = "grey">2019</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2019/1/1.jpg" width="700"></center>
+
+<br>
+
+
+<br>
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Memperkenalkan STATCAL di Laboratorium Komputer, Jurusan Matematika, Universitas Sumatra Utara</font><br>
+      Tahun: <font color = "grey">2018</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2018/1/1.jpg" width="400"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2018/1/2.jpg" width="400"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/1/3.jpg" width="400"></center>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Memperkenalkan STATCAL di Jurusan Matematika, Universitas Asaha, Sumatra Utara</font><br>
+      Tahun: <font color = "grey">2018</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2018/2/1.jpg" width="400"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2018/2/2.jpg" width="400"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/2/3.jpg" width="400"></center>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">STATCAL Terpilih 5 Inovasi Terbaik pada Acara "Youth Economic Leadership Program-Bank Indonesia Institute" yang Diselenggarakan oleh Bank Indonesia Institute di Hotel The Trans Luxury, Bandung</font><br>
+      Tahun: <font color = "grey">2018</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2018/3/1.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2018/3/2.jpg" width="700"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/3/3.jpg" width="600"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/3/4.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/3/5.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/3/6.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/3/7.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/3/8.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/3/9.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/3/10.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/3/11.jpg" width="600"></center>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Memperkenalkan STATCAL pada Mahasiswa Psikologi, Universitas Sumatra Utara</font><br>
+      Tahun: <font color = "grey">2018</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2018/4/1.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2018/4/2.jpg" width="700"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/4/3.jpg" width="600"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/4/4.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/4/5.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/4/6.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/4/7.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/4/8.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/4/9.jpg" width="600"></center>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Memperkenalkan STATCAL di Jurusan Psikologi, Universitas Indonesia (UI)</font><br>
+      Tahun: <font color = "grey">2018</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2018/5/1.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2018/5/2.jpg" width="700"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/5/3.jpg" width="600"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/5/4.jpg" width="600"></center>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+      Kegiatan: <font color = "orange">Memperkenalkan STATCAL di Universitas Padjadjaran (UNPAD)</font><br>
+      Tahun: <font color = "grey">2018</font><br>
+
+
+<br><br>
+
+
+<center><img src = "gambar/seminar dan pelatihan/2018/6/1.jpg" width="700"></center>
+
+<br>
+<center><img src = "gambar/seminar dan pelatihan/2018/6/2.jpg" width="700"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/6/3.jpg" width="600"></center>
+
+<br><center><img src = "gambar/seminar dan pelatihan/2018/6/4.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/6/5.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/6/6.jpg" width="600"></center>
+<br><center><img src = "gambar/seminar dan pelatihan/2018/6/7.jpg" width="600"></center>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br><br><br><br>
 
 
