@@ -9,6 +9,42 @@
 
 </head>
 
+
+
+
+
+
+<style>
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+
+
+
+</style>
+
+
+
+
+
+
+
+
+
 <body>
 
 
@@ -128,6 +164,23 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 </td>
 
+
+<td>
+
+
+
+<center><img src = "gambar/alkhawarizmi.jpg" width="500"></center>
+
+
+
+
+
+
+
+</td>
+
+
+
 </tr>
 
 
@@ -135,31 +188,35 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 </center>
 
 
+<center><img src = "gambar/statkomat.png" width="1200"></center>
+
+
+
+<BR>
+
+<b>
+<center>
+
+<a href = "https://statcal.com/" target = "_blank"><font color = "red" size = 4>STATCAL</font></a> | 
+<a href = "https://statkomat.com/" target = "_blank"><font color = "red" size = 4>STATKOMAT</font></a> | 
+<a href = "share-your-shiny-app.id" target = "_blank"><font color = "red" size = 4>SHARE-YOUR-SHINY-APP</font></a> | 
+<a href = "https://pranaugi.com/" target = "_blank"><font color = "red" size = 4>PRANAUGI</font></a> | 
+<a href = "https://gioprana89-indomp-main-pyxdb9.streamlit.app/" target = "_blank"><font color = "red" size = 4>DATA KINERJA KEUANGAN</font></a> | 
+<a href = "http://pranaugi-belajar-pemrograman.com/" target = "_blank"><font color = "red" size = 4>PEMROGRAMAN</font></a>  |
+<a href = "https://ugigrafik.com/" target = "_blank"><font color = "red" size = 4>UGI-GRAFIK</font></a> 
+
+
+</center>
+
+
+
+</b>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<BR><BR>
 
 
 
@@ -213,6 +270,119 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
+<br><br><br>
+
+
+<center>
+
+<table width = "1200" border = 0>
+
+<tr>
+
+<td width = "300">
+
+<img src = "gambar/ugi2.jpg" width = "300"> </img>
+
+
+</td>
+
+
+
+<td width = "900" valign = "top">
+<p style="text-align:justify">
+
+<font style="color:#ff9900; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+
+Prana Ugiana Gio, Founder Software Statistika <a href = "https://statcal.com/" target = "_blank">STATCAL</a>. Pendidikan S1 (2008-2012) dan S2 (2012-2014) di Universitas Sumatera Utara, Jurusan Matematika. Saaat ini sedang melanjutkan S3, di Universitas Sumatera Utara, Jurusan Matematika (2017-Sekarang). <br><br>
+
+<font color = #999900>
+Beberapa prestasi yang pernah dicapai meraih penghargaan 5 inovasi terbaik pada ajang Youth Economic Leadership Pogram - Bank Indonesia Institute pada 2018, serta meraih penghargaan Juara Paper Kategori Utama (Rekomendasi Scopus) pada Forum Riset Ekonomi dan Keuangan Syariah 2019 (FREKS-OJK). Pada 2021, ia menerima Research Grant Bank Indonesia (RGBI) 2021. 
+
+</font>
+
+<br><br>
+<font color = #3333ff>
+Beliau telah menerbitkan puluhan buku ber-ISBN, terkait statistika dan pemrograman, serta mempublikasi puluhan artikel di jurnal internasional. Beliau juga merupakan staf pengajar di Universitas Sumatera Utara, Jurusan Matematika. Bidang yang beliau tekuni adalah pembuatan aplikasi berbasis website, simulasi Monte-Carlo, pemodelan menggunakan distribusi probabilitas, data mining dan komputasi Bayesian. Beliau juga pembuat konten di channel youtube <a href = "https://www.youtube.com/@STATKOMAT" target = "_blank"><font color = "red">STATKOMAT</font></a>.
+</font>
+
+
+</font>
+</font>
+</p>	
+
+
+
+</td>
+
+
+
+
+
+
+</tr>
+
+
+</table>
+
+
+
+</center>
+
+
+
+
+
+<br>
+
+<br>
+<br>
+
+<center>
+
+<font style="color:#ff9900; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+<b>
+  
+<font color = "red" size = 4> Email: prana@usu.ac.id </font> | <font color = "red" size = 4>gioprana89@gmail.com</font> <br><br>
+<font color = "blue" size = 4> GitHub: gioprana89 </font>
+</b>
+
+
+</font></font>
+
+
+</center>
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
