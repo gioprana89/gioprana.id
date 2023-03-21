@@ -8,5 +8,6 @@ deployment:
     - /bin/cp artikel internasional.php $DEPLOYPATH
       - /bin/cp hak cipta.php $DEPLOYPATH
       - /bin/cp seminar dan pelatihan.php $DEPLOYPATH
+      - /bin/cp belajar online statistik dan pemrograman.php $DEPLOYPATH
         - /bin/cp file_css.css $DEPLOYPATH
 	- /bin/cp -R gambar $DEPLOYPATH
