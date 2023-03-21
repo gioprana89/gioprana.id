@@ -58,7 +58,7 @@ a:active {
     <a href="seminar dan pelatihan.php">Seminar & Pelatihan</a>
     <a href="#about">Aplikasi R</a>
     <a href="#about">Aplikasi Python</a>
-    <a href="#about">Kompetisi</a>
+    <a href="belajar online statistik dan pemrograman.php">Belajar Online Statistik dan Pemrograman</a>
 
 
   </div>

@@ -3,7 +3,7 @@
 
 <head>
 
-<title>Artikel Jurnal Nasional</title>
+<title>Belajar Online Statistik dan Pemrograman</title>
 
 <link rel="stylesheet" href="file_css.css">
 
@@ -38,7 +38,7 @@
         <center>
 
   
-        Artikel Jurnal Nasional
+        Belajar Online Statistik dan Pemrograman
 
 </center>
 
@@ -166,31 +166,68 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
+<center>
 
-<p style="text-align:justify">
+<table border = 0 width = 1250>
 
-<font style="color:orange; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
-        <font size = 6>
 
- 
-        <center>
 
-  
-       Berikut beberapa artikel kami (kolaborasi) yang dipublikasi di jurnal nasional.
+<tr>
+
+
+<td width = 400 height = 500>
+
+<center><img src = "gambar/cover buku/cover R.png" width="400"></center>
+
+
+
+
+</td>
+
+
+<td width = 25 height = 500>
+
+
+
+</td>
+
+
+<td width = 400 height = 500>
+
+<center><img src = "gambar/cover buku/streamlit.png" width="400"></center>
+
+
+</td>
+
+
+<td width = 25 height = 500>
+
+
+
+</td>
+
+
+
+<td width = 400 height = 500>
+
+<center><img src = "gambar/cover buku/pengantar statistika 2.png" width="400"></center>
+
+
+</td>
+
+
+</tr>
+
+
+
+
+
+</table>
+
+
 
 </center>
 
-        </font>
-</font>
-</p>	
-
-
-
-
-
-
-
-<br><br>
 
 
 
@@ -201,52 +238,6 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
-<p style="text-align:justify">
-
-<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
-      <font size = 4>
-
-Author: <font color = "red">Muhammad Khahfi Zuhanda, Anil Hakim Syofra Syofra, Devy Mathelinea, Prana Ugiana Gio, Yuan Anisa Anisa, Nanda Novita</font><br>
-Judul Artikel: <font color = "green">Analysis of twitter user sentiment on the monkeypox virus issue using the nrc lexicon</font><br>
-Tahun: <font color = "grey">2023</font><br>
-Jurnal: <font color = "orange">Jurnal Mantik</font><br>
-Link: <a href = "https://iocscience.org/ejournal/index.php/mantik/article/view/3502" target = "_blank">https://iocscience.org/ejournal/index.php/mantik/article/view/3502</a><br>
-
-
-
-</font>
-</font>
-</p>
-
-
-
-
-
-
-
-
-
-
-<br>
-<br><br>
-
-
-<p style="text-align:justify">
-
-<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
-      <font size = 4>
-
-Author: <font color = "red">Helmi Ramadan, Prana Ugiana Gio, Elly Rosmaini</font><br>
-Judul Artikel: <font color = "green">Monte Carlo Simulation Approach to Determine the Optimal Solution of Probabilistic Supply Cost</font><br>
-Tahun: <font color = "grey">2020</font><br>
-Jurnal: <font color = "orange">Journal of Research in Mathematics Trends and Technology</font><br>
-Link: <a href = "https://talenta.usu.ac.id/jormtt/article/view/3752" target = "_blank">https://talenta.usu.ac.id/jormtt/article/view/3752</a><br>
-
-
-
-</font>
-</font>
-</p>
 
 
 
@@ -260,65 +251,75 @@ Link: <a href = "https://talenta.usu.ac.id/jormtt/article/view/3752" target = "_
 
 
 <br>
-<br><br>
+<br>
 
+<br>
+<br>
 
-<p style="text-align:justify">
 
-<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
-      <font size = 4>
+<center>
 
-Author: <font color = "red">Dasapta Erwin Irawan, Muhammad Aswan Syahputra, Prana Ugiana Gio, Deny Juanda Puradimaja</font><br>
-Judul Artikel: <font color = "green">Thermostats: an Open Source Shiny App for Your Open Data Repository</font><br>
-Tahun: <font color = "grey">2019</font><br>
-Jurnal: <font color = "orange">JOIV : International Journal on Informatics Visualization</font><br>
-Link: <a href = "http://joiv.org/index.php/joiv/article/view/282" target = "_blank">http://joiv.org/index.php/joiv/article/view/282</a><br>
+<table border = 0 width = 1250>
 
 
 
-</font>
-</font>
-</p>
+<tr>
 
 
+<td width = 400 height = 500>
 
+<center><img src = "gambar/cover buku/pengantar probabilitas.png" width="400"></center>
 
 
 
 
+</td>
 
 
+<td width = 25 height = 500>
 
 
 
+</td>
 
 
+<td width = 400 height = 500>
 
+<center><img src = "gambar/cover buku/kalkulus.png" width="400" height = 500></center>
 
 
 
+</td>
 
 
+<td width = 25 height = 500>
 
 
 
+</td>
 
 
 
+<td width = 400 height = 500>
 
+<center><img src = "gambar/cover buku/aljabar linier.png" width="400" height = 500></center>
 
 
 
+</td>
 
 
+</tr>
 
 
 
 
 
+</table>
 
 
 
+</center>
 
 
 
@@ -326,25 +327,6 @@ Link: <a href = "http://joiv.org/index.php/joiv/article/view/282" target = "_bla
 
 
 
-
-
-  <br><br>
-
-<br><br>
-
-
-
-
-
-
-
-
-<br><br>
-
-<br><br>
-
-
-<br><br><br><br>
 
 
 
