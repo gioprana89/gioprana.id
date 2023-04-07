@@ -199,6 +199,38 @@ $jumlah_views = $result['items'][0]['statistics']['viewCount'];
 
 
 
+<p style="text-align:justify">
+
+<font style="color:#1114af; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+      <font size = 4>
+
+Author: <font color = "red">Toni Toharudin, Rezzy Eko Caraka, Indah Reski Pratiwi, Yunho Kim, Prana Ugiana Gio, Anjar Dimara Sakti, Maengseok Noh, Farid Azhar Lutfi Nugraha, Resa Septiani Pontoh, Tafia Hasna Putri, Thalita Safa Azzahra, Jessica Jesslyn Cerelia, Gumgum Darmawan, Bens Pardamean</font><br>
+Judul Artikel: <font color = "green">Boosting Algorithm to handle Unbalanced Classification of PM2.5 Concentration Levels by Observing Meteorological Parameters in Jakarta-Indonesia using AdaBoost, XGBoost, CatBoost, and LightGBM</font><br>
+Tahun: <font color = "grey">2023</font><br>
+Jurnal: <font color = "orange">Cogent Business & Management</font><br>
+Link: <a href = "https://ieeexplore.ieee.org/document/10093874/authors#authors" target = "_blank">https://ieeexplore.ieee.org/document/10093874/authors#authors</a><br>
+
+<center><img src = "gambar/artikel jurnal internasional/1/9.png" width="250"></center>
+
+
+</font>
+</font>
+</p>
+
+
+
+
+
+
+
+
+
+
+<br>
+<br><br>
+
+
+
 
 
 <p style="text-align:justify">
